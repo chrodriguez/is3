@@ -32,6 +32,8 @@ La clase a exponer será en el marco del caso de estudio planteado al inicio de 
   * Presentación del caso de uso
   * Herramientas a utilizar
   * Repaso de las etapas del ciclo de vida de los sistemas
+  * Introducción a los conceptos de auditoría y peritaje de sistemas
+    * Los beneficios de aplicar ITIL y DevOps
   * Presentación y comparación de los distintos modelos que pueden aplicarse en cada etapa del ciclo de vida.
     * La cátedra utilizará las **metodologías ágiles** y el **testing** como base
   * Análisis de requerimientos
